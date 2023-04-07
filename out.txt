@@ -1,0 +1,55 @@
+{
+    "glossary": {
+        "title": {
+            "_content": "example glossary",
+            "_type": "<class 'str'>"
+        },
+        "GlossDiv": {
+            "title": {
+                "_content": "S",
+                "_type": "<class 'str'>"
+            },
+            "GlossList": {
+                "GlossEntry": {
+                    "ID": {
+                        "_content": "SGML",
+                        "_type": "<class 'str'>"
+                    },
+                    "SortAs": {
+                        "_content": "SGML",
+                        "_type": "<class 'str'>"
+                    },
+                    "GlossTerm": {
+                        "_content": "Standard Generalized Markup Language",
+                        "_type": "<class 'str'>"
+                    },
+                    "Acronym": {
+                        "_content": "SGML",
+                        "_type": "<class 'str'>"
+                    },
+                    "Abbrev": {
+                        "_content": "ISO 8879:1986",
+                        "_type": "<class 'str'>"
+                    },
+                    "GlossDef": {
+                        "para": {
+                            "_content": "A meta-markup language, used to create markup languages such as DocBook.",
+                            "_type": "<class 'str'>"
+                        },
+                        "GlossSeeAlso": {
+                            "_content": [
+                                "GML",
+                                "XML"
+                            ],
+                            "_type": "<class 'list'>"
+                        }
+                    },
+                    "GlossSee": {
+                        "_content": "markup",
+                        "_type": "<class 'str'>"
+                    }
+                }
+            }
+        }
+    }
+}
